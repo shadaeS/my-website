@@ -16,3 +16,8 @@ update-readme new branch
 updtaes made on master on github before rebase
 
 big brother
+
+## repository purpose
+
+only on readme
+ this will cause some problems
